@@ -1,5 +1,7 @@
 # paGLM : Poisson polynomial approximate GLM
 
+The code is under construction.
+
 This package implements fast approximate inference for Poisson GLMs using polynomial approximate sufficient statistics. The package handles Poisson GLMs with both exponential and alternative nonlinearities.
 
 Reference: [Scaling the Poisson GLM to massive neural datasets through polynomial approximations.](http://pillowlab.princeton.edu/pubs/abs_Zoltowski_NIPS18.html)
