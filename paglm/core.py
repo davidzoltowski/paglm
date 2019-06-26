@@ -1,6 +1,5 @@
 import numpy as np
 from scipy.special import gammaln
-from paglm.chebyshev import compute_chebyshev
 
 
 def poisson_log_like(w,Y,X,dt,f=np.exp,Cinv=None):
